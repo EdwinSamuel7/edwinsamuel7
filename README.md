@@ -7,7 +7,7 @@
 - 🏛️ Master's in Applied Data Science & Analytics | Bachelor's in Computer Science & Engineering
 - 🔎 Data Analysis using *Python / R / Excel / SQL*
 - 📊 Data Visualization and storytelling skills using *Tableau / Power BI / SAS*
-- 💻 Worked with *GenAI , ML/DL, NLP*
+- 💻 Worked with *GenAI , ML/DL, NLP, AI Agents*
 - 🚀 Embarking my journey in the realm of data science & analytics, nestled in Germany 🏰.
 - 👀 My interests encompass *math* & *stats* 🧮.
 
