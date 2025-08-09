@@ -54,6 +54,9 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-Vector%20DB-FF6B6B?style=for-the-badge)
 
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)
+
+
 ---
 
 ### ⚡ Fun fact
