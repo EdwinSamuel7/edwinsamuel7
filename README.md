@@ -29,7 +29,7 @@
 
 > Why did the data scientist's family & friends start thinking they were a fortune teller? 🧙‍♂️
 
-... Because every time they tried explaining their job, they ended up saying, "I work with numbers and make predictions"!
+> ... Because every time they tried explaining their job, they ended up saying, "I work with numbers and make predictions"!
 
 <!---
 edwin-samuel-2020/edwin-samuel-2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
