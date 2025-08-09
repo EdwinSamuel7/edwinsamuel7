@@ -16,14 +16,14 @@
 [![Outlook](https://img.shields.io/badge/Outlook-ffffff?style=for-the-badge&logo=microsoft-outlook&logoColor=0078D4)](mailto:edwinsamuel2020@outlook.com)
 ---
 
-
+<!---
 ### 📫 Reach me on
 
 | 📧 | 
 | ------ | 
 | [![Gmail](https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:edwinsamuel2020@gmail.com) |
 | [![Outlook](https://img.shields.io/badge/Outlook-ffffff?style=for-the-badge&logo=microsoft-outlook&logoColor=0078D4)](mailto:edwinsamuel2020@outlook.com) |
-
+--->
 
 ---
 
