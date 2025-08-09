@@ -1,4 +1,4 @@
-## Greetings 👋 !! Edwin here on this side
+## Greetings 👋 !! Edwin here this side
 
 ---
 
