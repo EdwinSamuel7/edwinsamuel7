@@ -4,6 +4,11 @@
 
 ### 🙋‍♂️ About me
 
+- 🏛️ Master's in Applied Data Science & Analytics | Bachelor's in Computer Science & Engineering
+- 🔎 Data Analysis using Python / R/ Excel / SQL
+- 📊 Data Visualization and storytelling skills using Tableau / Power BI / SAS
+- 💻 Worked with GenAI , ML/DL, NLP
+
 - 🚀 Embarking on my master's journey in the realm of data science & analytics 💻 , nestled in Heidelberg, Germany 🏰.
 
 - 👀 My interests encompass math 🧮, python spells, data visualization 📊 & analytics 🔍.
