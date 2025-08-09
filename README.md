@@ -27,8 +27,11 @@
 
 ---
 
+### 💻 Tech Stack
 
-### ⚡ Fun fact :
+---
+
+### ⚡ Fun fact
 
 > Why did the data scientist's family & friends start thinking they were a fortune teller? 🧙‍♂️
 > 
