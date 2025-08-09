@@ -26,8 +26,6 @@
 | [![Outlook](https://img.shields.io/badge/Outlook-ffffff?style=for-the-badge&logo=microsoft-outlook&logoColor=0078D4)](mailto:edwinsamuel2020@outlook.com) |
 --->
 
----
-
 ### 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
