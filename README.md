@@ -28,7 +28,6 @@
 ### ⚡ Fun fact :
 
 > Why did the data scientist's family & friends start thinking they were a fortune teller? 🧙‍♂️
-
 > ... Because every time they tried explaining their job, they ended up saying, "I work with numbers and make predictions"!
 
 <!---
