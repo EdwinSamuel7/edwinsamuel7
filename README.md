@@ -9,7 +9,7 @@
 - 📊 Data Visualization and storytelling skills using *Tableau / Power BI / SAS*
 - 💻 Worked with *GenAI , ML/DL, NLP, AI Agents*
 - 🚀 Embarking my journey in the realm of data science & analytics, nestled in Germany 🏰.
-- 👀 My interests encompass *math* & *stats* 🧮.
+- 🧮 My interests encompass *math* & *stats*.
 
 #### 📫 Reach me on
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edwinsamuel2020@gmail.com)
